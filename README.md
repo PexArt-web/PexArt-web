@@ -3,7 +3,7 @@
 - 🌱 I’m currently open to any frontend development jobs
 - 💞️ I’m looking to learn more and collaborate on any frontend development projects...
 - 📫 How to reach me:[LinkedIn] (https://www.linkedin.com/in/pelumi-adeayo-09a1a5315), [Twitter](https://x.com/The_realpex)
-- [Email](pexart74@gmail.com),[WhatsApp](07033962306)
+- [Email](pexart74@gmail.com),[WhatsApp](https://wa.link/davi1q)
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact: Aside from coding,I enjoy Reading, cooking, watching animes or any interesting series, listening to music and lifting bars 🏋️
 

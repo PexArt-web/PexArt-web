@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 - 👋 Hi there, I’m Pelumi Adeayo, Welcome to my GitHub 😉! I am a passionate frontend developer with a strong background in building responsive and user-friendly web applications. My skills include HTML, CSS, JavaScript, with frontend frameworks and backend technologies such as React , Bootstrap and Firebase. I am constantly learning and updating my knowledge to stay at the forefront of the rapidly evolving web development landscape. 
 - 👀 I’m currently working on building more projects to update my portfolio and github space....
 - 🌱 I’m currently open to any frontend development jobs

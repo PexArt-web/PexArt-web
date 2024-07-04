@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7FF&background=00000000&width=435&lines=Welcome+to+Pelumi+Adeayo's+GitHub!;Passionate+Frontend+Developer;Always+Learning+and+Improving;Building+Innovative+Web+Applications;Let's+Create+Something+Amazing+Together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7FF&background=00000000&width=435&lines=Welcome+to+Pelumi+Adeayo's+GitHub!;Passionate+Frontend+Developer;Always+Learning+and+Improving;Building+Innovative+Web+Applications;Let's+Create+Something+Amazing+Together!)](https://git.io/typing-svg)
 
 ---
 

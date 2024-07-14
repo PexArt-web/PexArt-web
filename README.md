@@ -15,8 +15,10 @@ Welcome to my GitHub 😉! I am a passionate frontend developer with a strong ba
 - **Firebase**
 - **GitHub**
 - **Figma**
+- **EJS**
+- **Express**
 
-I am constantly learning and updating my knowledge to stay at the forefront of the rapidly evolving web development landscape. Currently, I am delving into Node.js to deepen my understanding of backend development.
+I am constantly learning and updating my knowledge to stay at the forefront of the rapidly evolving web development landscape. Currently, I am delving into Node.js and Express to deepen my understanding of backend development.
 
 ## What I'm Up To
 

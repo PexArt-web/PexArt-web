@@ -36,7 +36,7 @@ I am constantly learning and updating my knowledge to stay at the forefront of t
 ## Fun Facts
 
 - **Pronouns:** He/Him
-- **Hobbies:** Aside from coding, I enjoy reading, cooking, watching anime or interesting series, listening to music, and lifting weights 🏋️
+- **Hobbies:** Aside from coding, I enjoy reading, cooking, watching anime or interesting series, listening to music, and sculpting my physique through strength training 🏋️
 - **Team Player:** I thrive in team environments and enjoy collaborating with others to create amazing projects.
 
 <!---

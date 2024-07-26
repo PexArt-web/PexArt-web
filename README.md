@@ -65,7 +65,3 @@ Welcome to my GitHub 😉! I am a passionate MERN stack developer with a strong 
 PexArt-web/PexArt-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
----
-
-Feel free to modify any section as per your preference. This version highlights your skills as a MERN stack developer while maintaining a professional tone.

@@ -1,30 +1,52 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7FF&background=00000000&width=435&lines=Welcome+to+Pelumi+Adeayo's+GitHub!;Passionate+Frontend+Developer;Always+Learning+and+Improving;Building+Innovative+Web+Applications;Let's+Create+Something+Amazing+Together!)](https://git.io/typing-svg)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7FF&background=00000000&width=435&lines=Welcome+to+Pelumi+Adeayo's+GitHub!;Passionate+MERN+Stack+Developer;Always+Learning+and+Improving;Building+Innovative+Web+Applications;Let's+Create+Something+Amazing+Together!)](https://git.io/typing-svg)
 
 # Hi there, I’m Pelumi Adeayo! 👋
 
-Welcome to my GitHub 😉! I am a passionate frontend developer with a strong background in building responsive and user-friendly web applications. My skills include:
+Welcome to my GitHub 😉! I am a passionate MERN stack developer with a strong background in building responsive and user-friendly web applications. 
 
-- **HTML**
-- **CSS**
+## Skills and Technologies
+
+### Frontend
 - **JavaScript**
 - **React**
 - **Vite**
+- **HTML**
+- **CSS**
 - **Bootstrap**
-- **Firebase**
-- **GitHub**
 - **Figma**
-- **EJS**
+
+### Backend
+- **Node.js**
 - **Express**
+- **Firebase**
+- **MongoDB**
 
-I am constantly learning and updating my knowledge to stay at the forefront of the rapidly evolving web development landscape. Currently, I am delving into Node.js and Express to deepen my understanding of backend development.
+### Tools and Platforms
+- **GitHub**
+- **Git**
+- **Netlify**
+- **Vercel**
+- **Heroku**
+- **Postman**
 
-## What I'm Up To
+### Other Technologies
+- **EJS**
+- **Paystack**
+
+## Soft Skills
+- **Problem-Solving**
+- **Adaptability**
+- **Effective Communication**
+- **Team Collaboration**
+- **Time Management**
+- **Continuous Learning**
+
+## Current Focus
 
 - **Projects:** Building more projects to update my portfolio and GitHub space.
-- **Learning:** Open to any frontend development jobs.
-- **Collaboration:** Looking to learn more and collaborate on any frontend development projects.
+- **Learning:** Enhancing my backend skills with Node.js and Express.
+- **Collaboration:** Looking to collaborate on exciting frontend and full-stack development projects.
 
 ## Get In Touch
 
@@ -36,11 +58,14 @@ I am constantly learning and updating my knowledge to stay at the forefront of t
 ## Fun Facts
 
 - **Pronouns:** He/Him
-- **Hobbies:** Aside from coding, I enjoy reading, cooking, watching anime or interesting series, listening to music, and sculpting my physique through strength training
-- 
+- **Hobbies:** Aside from coding, I enjoy reading, cooking, watching anime or any interesting series, listening to music, and sculpting my physique through strength training.
 - **Team Player:** I thrive in team environments and enjoy collaborating with others to create amazing projects.
 
 <!---
 PexArt-web/PexArt-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
+Feel free to modify any section as per your preference. This version highlights your skills as a MERN stack developer while maintaining a professional tone.

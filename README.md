@@ -8,6 +8,10 @@ Welcome to my GitHub corner! I'm a passionate **MERN stack developer** driven by
 
 ![Pelumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PexArt-web&show_icons=true&theme=radical)
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PexArt-web&layout=compact&theme=radical)
+
+
 ## 💻 Skills and Technologies
 
 ### Frontend

@@ -1,67 +1,64 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7FF&background=00000000&width=435&lines=Welcome+to+Pelumi+Adeayo's+GitHub!;Passionate+MERN+Stack+Developer;Constantly+Learning+and+Innovating;Building+Impactful+Web+Solutions;Let's+Create+Something+Remarkable!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7FF&background=00000000&width=435&lines=Welcome+to+Pelumi+Adeayo's+GitHub!;Passionate+MERN+Stack+Developer;Always+Learning+and+Improving;Building+Innovative+Web+Applications;Let's+Create+Something+Amazing+Together!)](https://git.io/typing-svg)
+# 👋 Hi there, I’m Pelumi Adeayo!
 
-# Hi there, I’m Pelumi Adeayo! 👋
+Welcome to my GitHub corner! I'm a passionate **MERN stack developer** driven by the challenge of creating responsive, scalable, and user-friendly web applications. My focus is on constantly refining my skills while delivering real-world solutions.
 
-Welcome to my GitHub 😉! I am a passionate MERN stack developer with a strong background in building responsive and user-friendly web applications. 
-
-## Skills and Technologies
+## 💻 Skills and Technologies
 
 ### Frontend
-- **JavaScript**
-- **React**
-- **Vite**
-- **HTML**
-- **CSS**
-- **Bootstrap**
-- **Figma**
+- **JavaScript (ES6+)**
+- **React (with Hooks and Context)**
+- **Vite for fast project scaffolding**
+- **HTML5 & CSS3**
+- **Bootstrap & Tailwind**
+- **Figma for design collaboration**
 
 ### Backend
-- **Node.js**
-- **Express**
-- **Firebase**
-- **MongoDB**
+- **Node.js** (Express for REST APIs)
+- **Firebase** (Authentication, Storage, and DB)
+- **MongoDB** (NoSQL Database)
+- **EJS** (Server-side templating)
 
-### Tools and Platforms
-- **GitHub**
-- **Git**
-- **Netlify**
-- **Vercel**
-- **Heroku**
-- **Postman**
+### DevOps & Tools
+- **Git** (Version Control)
+- **GitHub** (Project Management, Collaboration)
+- **Netlify, Vercel, Heroku** (Deployment Platforms)
+- **Postman** (API Testing)
+- **Docker** (Containerization - Learning)
 
 ### Other Technologies
-- **EJS**
-- **Paystack**
+- **SWR** for data fetching
+- **Paystack** (Payment Processing)
 
-## Soft Skills
-- **Problem-Solving**
+## 🧠 Soft Skills
+
+- **Critical Thinking & Problem Solving**
 - **Adaptability**
 - **Effective Communication**
 - **Team Collaboration**
 - **Time Management**
-- **Continuous Learning**
+- **Continuous Learning & Self-Improvement**
 
-## Current Focus
+## 🚀 Current Focus
 
-- **Projects:** Building more projects to update my portfolio and GitHub space.
-- **Learning:** Enhancing my backend skills with Node.js and Express.
-- **Collaboration:** Looking to collaborate on exciting frontend and full-stack development projects.
+- **Project Development:** Enhancing my portfolio with more full-stack projects, especially in e-commerce and AI-driven apps.
+- **Skill Expansion:** Diving deeper into **Node.js** and **Express** for robust backend solutions. Exploring **TypeScript** and **Redux** for state management.
+- **Collaboration:** Open to teaming up on challenging **frontend** and **full-stack** projects.
 
-## Get In Touch
+## 🌐 Get In Touch
 
 - **[LinkedIn](https://www.linkedin.com/in/pelumi-adeayo-09a1a5315)**
 - **[Twitter](https://x.com/The_realpex)**
 - **Email:** pexart74@gmail.com
 - **[WhatsApp](https://wa.link/davi1q)**
 
-## Fun Facts
+## 🔍 Fun Facts About Me
 
 - **Pronouns:** He/Him
-- **Hobbies:** Aside from coding, I enjoy reading, cooking, watching anime or any interesting series, listening to music, and sculpting my physique through strength training.
-- **Team Player:** I thrive in team environments and enjoy collaborating with others to create amazing projects.
+- **Hobbies:** When I'm not coding, you can find me sculpting my physique at the gym, exploring new anime, cooking up something new, or relaxing with a great book.
+- **Team Player:** I excel in collaborative environments where ideas flourish and innovation happens. Let's build something great together!
 
 <!---
-PexArt-web/PexArt-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+PexArt-web/PexArt-web is a ✨ special ✨ repository where innovation and creativity meet. Keep an eye out for updates!
 --->

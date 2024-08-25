@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7FF&background=00000000&width=435&lines=Welcome+to+Pelumi+Adeayo's+GitHub!;Passionate+MERN+Stack+Developer;Constantly+Learning+and+Innovating;Building+Impactful+Web+Solutions;Let's+Create+Something+Remarkable!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&background=00000000&width=550&lines=Hey!+I'm+Pelumi+Adeayo.;MERN+Stack+Developer;Full-Stack+Innovator;Building+Scalable+Web+Solutions;Collaborator+%26+Tech+Enthusiast;Let's+Create+Something+Remarkable!)](https://git.io/typing-svg)
 
 # 👋 Hi there, I’m Pelumi Adeayo!
 

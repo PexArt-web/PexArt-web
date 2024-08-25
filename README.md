@@ -4,6 +4,10 @@
 
 Welcome to my GitHub corner! I'm a passionate **MERN stack developer** driven by the challenge of creating responsive, scalable, and user-friendly web applications. My focus is on constantly refining my skills while delivering real-world solutions.
 
+## GitHub Stats
+
+![Pelumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PexArt-web&show_icons=true&theme=radical)
+
 ## 💻 Skills and Technologies
 
 ### Frontend

@@ -45,7 +45,7 @@ Welcome to my GitHub corner! I'm a passionate **MERN stack developer** driven by
 
 ## 🚀 Current Focus
 
-- **Project Development:** Enhancing my portfolio with more full-stack projects, especially in e-commerce and AI-driven apps.
+- **Project Development:** Enhancing my portfolio with more full-stack projects and AI-driven apps.
 - **Skill Expansion:** Diving deeper into **Node.js** and **Express** for robust backend solutions. Exploring **TypeScript** and **Redux** for state management.
 - **Collaboration:** Open to teaming up on challenging **frontend** and **full-stack** projects.
 
